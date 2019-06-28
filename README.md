@@ -10,7 +10,7 @@ block with the name of the profile you will be using with the correct aws creden
 The structure of the block is:\
 `[serverless-test]`\
 `aws_access_key_id = your key here`\
-`aws_secret_access_key = your key here`\
+`aws_secret_access_key = your key here`
 3. For any project dependencies, you must have a requirements.txt file in the service directory. 
 If you are using a python virtual environment (which is recommended) such as pipenv, you will need to install a plugin to
 generate the file from the Pipfile (see the plugins section in the serverless.yml file -serverless-python-requirements):
