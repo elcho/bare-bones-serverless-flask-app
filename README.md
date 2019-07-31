@@ -1,4 +1,4 @@
-## Bare Bones Serverless Flask App
+## Deploy a Serverless Flask App in 5 Minutes
 
 This is a basic example of how to deploy a flask app as a microservice on AWS Lambda using the Serverless framework.
 
